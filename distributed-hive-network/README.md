@@ -9,6 +9,8 @@ With this docker-compose file you can start all the distributed system conformed
 * [Node Tyrant Api](https://github.com/angel-zguerrero/node-tyrant-api).
 
 
+These three services work together to solve intensive scientific operations by balancing the workload across multiple servers.
+
 ```bash
 # to start the distributed system
 $ docker-compose up
