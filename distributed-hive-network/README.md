@@ -15,6 +15,8 @@ These three services work together to solve intensive scientific operations by b
 # to start the distributed system
 $ docker-compose up
 
+```
+
 ## Author
 
-- [@angel-zguerrero](https://github.com/angel-zguerrero)
+[@angel-zguerrero](https://github.com/angel-zguerrero)
